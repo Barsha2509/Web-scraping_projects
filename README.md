@@ -1,2 +1,2 @@
 # Web-scrapping-data-visualiztion
-In this project, data about the GDP of different countries will be obtained from the worldometer webpage by using BeautifulSoup library of python for web scrapping. Then the collected data will be used to create a dashboard by using Tableau.
+In this project, data about the GDP of different countries in the world will be obtained from the worldometer webpage by using BeautifulSoup library and read_html function of the pandas library in python for web scrapping. Then the collected data will be cleaned and analyzed (by obtaining summary statistics and visualizing it) to create a dashboard by using Tableau.
